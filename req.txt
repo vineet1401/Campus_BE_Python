@@ -1,0 +1,4 @@
+pypdf 
+google.generativeai
+flask_cors
+dotenv
